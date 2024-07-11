@@ -1,5 +1,5 @@
 # Divya Chemicals
-Welcome to the official repository of Divya Chem, a premier chemical manufacturing company. This repository contains the source code and documentation for the Divya Chem website.
+Welcome to the official repository of Divya Chem, a premier chemical manufacturing company. This repository contains the documentation for the Divya Chemicals website.
 
 ## About 
 
