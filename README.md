@@ -11,9 +11,9 @@ Visit our website: https://www.divyachem.com/
 Product Catalogue: Browse through a wide range of chemical products. About Us: Learn more about our company's mission, vision, and values. Quality Assurance: Information on our quality control processes and certifications. Contact Us: Easy access to our contact information for inquiries and support. News and Updates: Stay updated with the latest news and announcements.
 
 ## Technologies Used
-Front-End: HTML, CSS,JavaScript 
-Back-End: PHP,Laravel
-Database: MySQL
+Front-End: HTML, CSS,JavaScript  
+Back-End: PHP,Laravel  
+Database: MySQL  
 Hosting: Hostinger
 
 ## Contact 
