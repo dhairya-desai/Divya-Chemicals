@@ -21,7 +21,7 @@ Database: MySQL
 Hosting: Hostinger  
 
 ## Screenshots
-![alt text](home-1.jpg)
+![alt text](home.jpg)
 ![alt text](about.jpg)
 ![alt text](twitter.jpg)
 ![alt text](contact.jpg)
